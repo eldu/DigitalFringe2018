@@ -1,2 +1,2 @@
 Live Demo
-https://eldu.github.io/IM_Ellen_Duong_Watercolor/
+https://eldu.github.io/DigitalFringe2018
